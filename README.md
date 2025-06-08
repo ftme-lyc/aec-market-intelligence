@@ -5,7 +5,7 @@ This project is a Streamlit-based AI-powered dashboard designed to help Architec
 It uses **Azure OpenAI**, **web scraping**, and **NLP agents** to analyze industry publications and visualize emerging trends, regulatory changes, and high-potential project leads.
 
 ## 🔗 Live Demo
-**Streamlit App**: []()
+**Streamlit App**: [https://aec-market-intelligence.streamlit.app/](https://aec-market-intelligence.streamlit.app/)
 
 ## 🎯 Use Case
 This dashboard helps strategy and business development teams:
