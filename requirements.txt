@@ -8,5 +8,5 @@ plotly
 wordcloud
 matplotlib
 azure-storage-blob
-BeautifulSoup
+beautifulsoup4
 chardet
