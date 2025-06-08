@@ -10,4 +10,4 @@ matplotlib
 azure-storage-blob
 beautifulsoup4
 chardet
-lxml
+lxml>=4.9.3
