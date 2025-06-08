@@ -3,7 +3,7 @@ pandas
 feedparser
 python-dotenv
 openai
-newspaper3k
+newspaper3k==0.2.8
 plotly
 wordcloud
 matplotlib
