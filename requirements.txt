@@ -1,0 +1,12 @@
+streamlit
+pandas
+feedparser
+python-dotenv
+openai
+newspaper3k
+plotly
+wordcloud
+matplotlib
+azure-storage-blob
+BeautifulSoup
+chardet
