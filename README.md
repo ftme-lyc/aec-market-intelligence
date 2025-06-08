@@ -4,7 +4,7 @@ This project is a Streamlit-based AI-powered dashboard designed to help Architec
 
 It uses **Azure OpenAI**, **web scraping**, and **NLP agents** to analyze industry publications and visualize emerging trends, regulatory changes, and high-potential project leads.
 
-## 🔗 Live Demo
+### 🔗 Live Demo
 **Streamlit App**: []()
 
 ## 🎯 Use Case
@@ -16,26 +16,26 @@ This dashboard helps strategy and business development teams:
 
 ## 🚀 Key Features
 
-- ✅ **AI Agent for Insight Extraction**
+✅ **AI Agent for Insight Extraction**
   - Analyzes industry news from RSS feeds and article links
   - Extracts structured intelligence (e.g. Category, Sector, Signal Strength)
 
-- 📊 **Interactive Dashboard**
+📊 **Interactive Dashboard**
   - Filter insights by Sector, Category, Signal Strength
   - KPIs for volume, signal levels, and entities
   - Sector-wise pie chart, geo maps, and location bar charts
 
-- 🌍 **Geographic & Sectoral Visualization**
+🌍 **Geographic & Sectoral Visualization**
   - Map of insights by country and city
   - Pie chart showing sector distribution
 
-- 💬 **Emerging Client Priorities**
+💬 **Emerging Client Priorities**
   - Word cloud based on strategic insights to show market focus areas
 
-- 📜 **Regulatory Impact Analysis**
+📜 **Regulatory Impact Analysis**
   - Highlights sectors most impacted by policy updates
 
-- 🚨 **High-Potential Early Market Leads**
+🚨 **High-Potential Early Market Leads**
   - Flags strong early signals for upcoming tenders or opportunities
 
 ## 🧠 Technologies Used
