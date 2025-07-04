@@ -69,10 +69,10 @@ This dashboard helps strategy and business development teams:
    streamlit run app.py
 
 ## 📂 File Structure
-- streamlit_dashboard.py  – Main Streamlit dashboard UI with filters, visualizations, and insight submission
-- aec_agent.py            – Core AI agent logic for parsing articles and extracting structured AEC insights using Azure OpenAI
-- azure_storage.py        – Functions to load from and upload insights to Azure Blob Storage
-- .env                    – Environment variables for API keys and credentials
-- requirements.txt        – Python dependencies required to run the app
-- SkyResidenceDawson.txt  – Example internal document used for manual insight parsing
-- README.md               – Project overview, setup instructions, and usage documentation
+- `streamlit_dashboard.py`  – Main Streamlit dashboard UI with filters, visualizations, and insight submission
+- `aec_agent.py`            – Core AI agent logic for parsing articles and extracting structured AEC insights using Azure OpenAI
+- `azure_storage.py`        – Functions to load from and upload insights to Azure Blob Storage
+- `.env`                    – Environment variables for API keys and credentials
+- `requirements.txt`        – Python dependencies required to run the app
+- `SkyResidenceDawson.txt`  – Example internal document used for manual insight parsing
+- `README.md`               – Project overview, setup instructions, and usage documentation
